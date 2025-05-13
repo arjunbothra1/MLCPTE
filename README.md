@@ -13,4 +13,4 @@ To produce the classifier and regressor models (saved as rfc.pickle and rfr.pick
 python3.8 machine_learning.py
 To generate the rfc.pickle and rfr.pickle models automatically, or run all of the lines in machine_learning_code.ipynb manually to get the same results.
 
-These models should be placed in a folder along with the element_data.txt file. This folder will serve as the primary working directory, and any of the ML-CP code files will work here to generate ML-CP data.
+These models should be placed in a folder along with the element_data.txt file. This folder will serve as the primary working directory, and any of the ML-CP code files will work here to generate ML-CP data. A file called "IMAGES" should be created within this file to house generated images.
